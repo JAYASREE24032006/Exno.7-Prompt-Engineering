@@ -1,6 +1,6 @@
 # Exno.7-Prompt-Engineering
-# Date:
-# Register no.
+## Date:
+## Register no: 212222230066
 # Aim: 
 To develop a prompt-based application using ChatGPT – demonstrating how to create a prompt-driven assistant for organizing daily tasks, with progression from basic to advanced prompt designs.
 
